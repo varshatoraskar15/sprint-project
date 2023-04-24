@@ -126,7 +126,7 @@ background-color: black;
   .informationbox {
     width: 45%;
     height: 200px;
-    background-color: wheat;
+    background-color: white;
     float: right;
     margin-top: -200px;
     margin-right: 50px;
@@ -135,7 +135,7 @@ background-color: black;
   .footer {
 
     width: 100%;
-    height: 40%;
+    height: 100%;
     background-color: #131A22;
     margin-top: 50px
   }
